@@ -17,7 +17,7 @@
     "directory": "subpkgs/hb_native_fs"
   },
   "author": "coolguy284 <coolguy284v64@gmail.com> (https://github.com/coolguy284)",
-  "license": "(MIT OR Unlicense)",
+  "license": "(ISC OR Unlicense)",
   "bugs": {
     "url": "https://github.com/coolguy284/node-hash-backup/issues"
   },
